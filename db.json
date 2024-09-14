@@ -1,0 +1,51 @@
+{
+    "superheroes": [
+        {
+            "id":1,
+            "name":"Superman",
+            "email":"a@a.com"
+        },
+        {
+            "id":2,
+            "name":"Batman",
+            "email":"b@b.com"
+        },
+        {
+            "id":3,
+            "name":"Hulk",
+            "email":"c@c.com"
+        },
+        {
+            "id":4,
+            "name":"Iron Man",
+            "email":"c@c.com"
+        }
+    ],
+    "friends": [
+        {
+            "id":1,
+            "name":"Nitin"
+        },
+        {
+            "id":2,
+            "name":"Tintin"
+        },
+        {
+            "id":3,
+            "name":"Joey",
+            "email":"c@c.com"
+        }
+    ],
+    "users": [
+        {
+            "id": "nitin@nitin.com",
+            "channelId": "letsCode"
+        }
+    ],
+    "channels":[
+        {
+            "id": "letsCode",
+            "courses":["React", "Angular", "Node"]
+        }
+    ]
+}
